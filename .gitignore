@@ -1,0 +1,9 @@
+# Editor-specific
+.idea
+*.sublime-project
+*.sublime-workspace
+.settings
+
+# Misc
+ignore
+npm-debug.log
