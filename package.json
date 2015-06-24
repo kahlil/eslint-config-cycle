@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cycle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shareable ESLint config for all Cycle.js modules",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "eslint-plugin-cycle": "1.0.x"
-  }
+  },
   "author": "Andre Staltz <andre+npm@staltz.com> (http://andre.staltz.com/)",
   "license": "MIT",
   "bugs": {
