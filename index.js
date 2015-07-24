@@ -14,7 +14,7 @@ module.exports = {
     "destructuring": true,
     "modules": true,
     "defaultParams": true,
-    "classes": true,
+    "classes": false,
     "spread": true,
     "superInFunctions": true,
     "templateStrings": true,
