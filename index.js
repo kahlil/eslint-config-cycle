@@ -105,8 +105,11 @@ module.exports = {
     "no-var": 2,
     "semi": 2,
     "dot-location": [2, "property"],
-    
+
     // Cycle.js specific rules
-    "cycle/brace-style": 2
+    "cycle/brace-style": 2,
+
+    // Third-party rules
+    "no-class/no-class": 2
   }
 };
