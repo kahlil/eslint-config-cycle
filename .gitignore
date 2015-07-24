@@ -1,3 +1,6 @@
+# Generated
+node_modules
+
 # Editor-specific
 .idea
 *.sublime-project

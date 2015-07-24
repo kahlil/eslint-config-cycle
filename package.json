@@ -18,7 +18,8 @@
     "eslintconfig"
   ],
   "dependencies": {
-    "eslint-plugin-cycle": "1.0.x"
+    "eslint-plugin-cycle": "1.0.x",
+    "eslint-plugin-no-class": "^0.1.0"
   },
   "author": "Andre Staltz <andre+npm@staltz.com> (http://andre.staltz.com/)",
   "license": "MIT",
