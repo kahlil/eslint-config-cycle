@@ -49,6 +49,7 @@ module.exports = {
     "no-nested-ternary": 2,
     "no-new-object": 2,
     "no-spaced-func": 2,
+    "arrow-spacing": [2, {"before": true, "after": true}],
     "operator-assignment": [2, "always"],
     "operator-linebreak": [2, "after"],
     "padded-blocks": [2, "never"],
