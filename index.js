@@ -22,6 +22,7 @@ module.exports = {
     "objectLiteralDuplicateProperties": true,
     "objectLiteralComputedProperties": true,
     "objectLiteralShorthandProperties": true,
+    "experimentalObjectRestSpread": true,
     "generators": true,
     "forOf": true,
     "blockBindings": true
