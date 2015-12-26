@@ -43,7 +43,7 @@ module.exports = {
       "afterColon": true
     }],
     "max-nested-callbacks": [2, 2],
-    "new-cap": [2, {"newIsCap": true}],
+    "new-cap": [0],
     "new-parens": 2,
     "no-mixed-spaces-and-tabs": 2,
     "no-multiple-empty-lines": [1, {"max": 1}],
