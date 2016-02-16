@@ -63,7 +63,6 @@ module.exports = {
     "computed-property-spacing": [2, "never"],
     "space-in-parens": [2, "never"],
     "space-infix-ops": [2, {"int32Hint": true}],
-    "space-return-throw-case": 2,
     "space-unary-ops": [2, { "words": true, "nonwords": false }],
     "no-delete-var": 2,
     "no-underscore-dangle": 0,
