@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/cyclejs/eslint-config-cycle/issues"
   },
-  "homepage": "https://github.com/cyclejs/eslint-config-cycle"
+  "homepage": "https://github.com/cyclejs/eslint-config-cycle",
+  "devDependencies": {
+    "eslint": "^2.1.0"
+  }
 }

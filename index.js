@@ -55,7 +55,7 @@ module.exports = {
     "operator-linebreak": [2, "after"],
     "padded-blocks": [2, "never"],
     "quote-props": [2, "as-needed"],
-    "space-after-keywords": [2, "always"],
+    "keyword-spacing": 2,
     "space-before-blocks": [2, "always"],
     "space-before-function-paren": [2, "never"],
     "object-curly-spacing": [2, "never"],
